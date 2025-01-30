@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Transform Your Digital Presence",
+    "subtitle": "Google certified Digital Marketing Agency in Montreal",
+    "cta": "Get Started"
+  },
+  "services": {
+    "title": "Our Services",
+    "items": {
+      "seo": "Google My Business + SEO",
+      "social": "Social Media Ads",
+      "management": "Social Media Management",
+      "booking": "Booking Web App",
+      "sms": "SMS Marketing",
+      "website": "Website Creation"
+    }
+  },
+  "about": {
+    "title": "About TNOR Marketing",
+    "subtitle": "Your Partner in Digital Success",
+    "description": "As a Google certified Digital Marketing Agency based in Montreal, we combine expertise with innovation to deliver exceptional results for our clients.",
+    "features": {
+      "certified": "Google Certified",
+      "innovative": "Innovative Solutions",
+      "results": "Proven Results"
+    }
+  },
+  "testimonials": {
+    "title": "Client Success Stories"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Message sent successfully!",
+    "error": "There was an error sending your message."
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "blog": "Blog",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "title": "Transformez Votre Présence Numérique",
+    "subtitle": "Agence de Marketing Digital certifiée Google à Montréal",
+    "cta": "Commencer"
+  },
+  "services": {
+    "title": "Nos Services",
+    "items": {
+      "seo": "Google My Business + SEO",
+      "social": "Publicité sur les Réseaux Sociaux",
+      "management": "Gestion des Réseaux Sociaux",
+      "booking": "Application Web de Réservation",
+      "sms": "Marketing SMS",
+      "website": "Création de Site Web"
+    }
+  },
+  "about": {
+    "title": "À Propos de TNOR Marketing",
+    "subtitle": "Votre Partenaire pour le Succès Numérique",
+    "description": "En tant qu'agence de marketing digital certifiée Google basée à Montréal, nous combinons expertise et innovation pour offrir des résultats exceptionnels à nos clients.",
+    "features": {
+      "certified": "Certifié Google",
+      "innovative": "Solutions Innovantes",
+      "results": "Résultats Prouvés"
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages Clients"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "name": "Nom",
+    "email": "Courriel",
+    "message": "Message",
+    "submit": "Envoyer le Message",
+    "success": "Message envoyé avec succès!",
+    "error": "Une erreur est survenue lors de l'envoi de votre message."
+  },
+  "footer": {
+    "quickLinks": "Liens Rapides",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés."
+  }
+}

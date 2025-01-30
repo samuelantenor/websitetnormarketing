@@ -1,0 +1,144 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À Propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "products": "Produits"
+  },
+  "hero": {
+    "title": "Excellence en Marketing Digital",
+    "subtitle": "Transformez Votre Présence en Ligne",
+    "cta": "Commencer"
+  },
+  "services": {
+    "title": "Nos Services",
+    "items": {
+      "seo": "Google My Business + SEO",
+      "social": "Publicité sur les Réseaux Sociaux",
+      "management": "Gestion des Réseaux Sociaux",
+      "booking": "Application Web de Réservation",
+      "sms": "Marketing SMS",
+      "website": "Création de Site Web",
+      "descriptions": {
+        "seo": "Optimisez votre présence locale et votre classement dans les moteurs de recherche",
+        "social": "Campagnes publicitaires stratégiques sur les réseaux sociaux",
+        "management": "Gestion complète des réseaux sociaux",
+        "booking": "Solutions de réservation personnalisées pour votre entreprise",
+        "sms": "Campagnes de marketing SMS directes et efficaces",
+        "website": "Développement de sites web modernes et responsifs"
+      }
+    }
+  },
+  "about": {
+    "title": "À Propos de TNOR Marketing",
+    "subtitle": "Votre Partenaire pour le Succès Numérique",
+    "description": "Basée à Montréal, TNOR Marketing est une agence de marketing digital certifiée Google dédiée à aider les entreprises à établir et développer leur présence en ligne. Nous combinons créativité et stratégies basées sur les données pour offrir des résultats exceptionnels.",
+    "features": {
+      "certified": {
+        "title": "Certifié Google",
+        "description": "Expertise reconnue en marketing digital et services Google"
+      },
+      "innovative": {
+        "title": "Basé sur les Données",
+        "description": "Décisions stratégiques appuyées par l'analyse et les insights du marché"
+      },
+      "results": {
+        "title": "Centré sur le Client",
+        "description": "Dévoués à offrir des résultats exceptionnels pour nos clients"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages Clients",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "company": "Tech Solutions Inc.",
+        "text": "TNOR Marketing a complètement transformé notre présence numérique. Leurs stratégies SEO nous ont permis d'atteindre le sommet des résultats de recherche locaux."
+      },
+      {
+        "name": "Marc Dubois",
+        "company": "Café Montréal",
+        "text": "Leur gestion des réseaux sociaux nous a apporté de nombreux nouveaux clients. L'équipe est professionnelle et livre toujours des résultats."
+      },
+      {
+        "name": "Emily Chen",
+        "company": "Growth Startup",
+        "text": "Le site web qu'ils ont créé pour nous est magnifique et performant. Notre taux de conversion a augmenté de 150%."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "name": "Nom",
+    "email": "Courriel",
+    "message": "Message",
+    "submit": "Envoyer",
+    "success": "Merci pour votre message. Nous vous répondrons bientôt !",
+    "error": "Oups ! Une erreur s'est produite. Veuillez réessayer."
+  },
+  "blog": {
+    "title": "Dernières Actualités",
+    "description": "Restez à jour avec les dernières tendances et stratégies en marketing digital, SEO et développement web.",
+    "comingSoon": "Notre contenu blog arrive bientôt. Restez à l'écoute pour des conseils et astuces précieux !"
+  },
+  "blogCTA": {
+    "title": "Vous Voulez En Savoir Plus Sur Nos Services ?",
+    "description": "Explorez notre blog pour des guides détaillés, des conseils d'experts et les dernières tendances en marketing digital. Gardez une longueur d'avance sur la concurrence avec nos précieuses informations.",
+    "button": "Explorer Notre Blog"
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "description": "Trouvez des réponses aux questions courantes sur nos services de marketing digital.",
+    "allCategories": "Toutes les Catégories"
+  },
+  "footer": {
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "home": "Accueil",
+      "about": "À Propos",
+      "services": "Services",
+      "contact": "Contact",
+      "faq": "FAQ"
+    },
+    "contact": {
+      "title": "Coordonnées",
+      "address": "Montréal, Québec",
+      "email": "contact@tnormarketing.com",
+      "phone": "+1 (514) XXX-XXXX"
+    },
+    "copyright": "© 2024 TNOR Marketing. Tous droits réservés."
+  },
+  "products": {
+    "title": "Nos Produits",
+    "subtitle": "Des solutions SaaS puissantes pour optimiser vos opérations commerciales",
+    "flowtext": {
+      "title": "FlowText",
+      "description": "Une plateforme de marketing SMS puissante conçue pour aider les entreprises à interagir avec leurs clients grâce à des campagnes de messagerie personnalisées.",
+      "features": [
+        "Campagnes SMS en masse avec personnalisation",
+        "Gestion et segmentation des listes de contacts",
+        "Analyses et rapports de campagne",
+        "Flux de messagerie automatisés",
+        "Support de messagerie bidirectionnelle",
+        "Intégration avec les systèmes CRM populaires"
+      ],
+      "cta": "En Savoir Plus"
+    },
+    "bookinz": {
+      "title": "Bookinz",
+      "description": "Un système complet de planification et de gestion des rendez-vous qui aide les entreprises à rationaliser leur processus de réservation et à améliorer l'expérience client.",
+      "features": [
+        "Système de réservation en ligne",
+        "Gestion du calendrier",
+        "Rappels automatisés",
+        "Planification du personnel",
+        "Traitement des paiements",
+        "Gestion de la clientèle"
+      ],
+      "cta": "Découvrir Bookinz"
+    }
+  }
+} 
