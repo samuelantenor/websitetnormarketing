@@ -106,8 +106,8 @@
     "contact": {
       "title": "Coordonnées",
       "address": "Montréal, Québec",
-      "email": "contact@tnormarketing.com",
-      "phone": "+1 (514) XXX-XXXX"
+      "email": "tnormarketing@gmail.com",
+      "phone": "+1 514-910-3350"
     },
     "copyright": "© 2024 TNOR Marketing. Tous droits réservés."
   },
@@ -120,12 +120,9 @@
       "features": [
         "Campagnes SMS en masse avec personnalisation",
         "Gestion et segmentation des listes de contacts",
-        "Analyses et rapports de campagne",
-        "Flux de messagerie automatisés",
-        "Support de messagerie bidirectionnelle",
-        "Intégration avec les systèmes CRM populaires"
+        "Analyses et rapports de campagne"
       ],
-      "cta": "En Savoir Plus"
+      "cta": "Découvrir FlowText"
     },
     "bookinz": {
       "title": "Bookinz",
@@ -134,7 +131,6 @@
         "Système de réservation en ligne",
         "Gestion du calendrier",
         "Rappels automatisés",
-        "Planification du personnel",
         "Traitement des paiements",
         "Gestion de la clientèle"
       ],

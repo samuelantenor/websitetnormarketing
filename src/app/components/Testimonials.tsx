@@ -104,7 +104,6 @@ export default function Testimonials({ dict }: TestimonialsProps) {
                   {dict.testimonials.items[current].text}
                 </p>
                 <div className="flex items-center">
-                  <div className="w-12 h-12 rounded-full bg-gray-300 mr-4" />
                   <div>
                     <h4 className="font-semibold text-text-primary">
                       {dict.testimonials.items[current].name}

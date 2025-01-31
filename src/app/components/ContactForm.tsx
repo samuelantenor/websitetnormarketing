@@ -41,19 +41,19 @@ export default function ContactForm({ dict }: ContactFormProps) {
   const contactInfo = [
     {
       icon: FaPhone,
-      title: "Téléphone",
+      title: dict.footer.contact.title === "Contact Info" ? "Phone" : "Téléphone",
       content: dict.footer.contact.phone,
       color: "text-primary"
     },
     {
       icon: FaEnvelope,
-      title: "Courriel",
+      title: dict.footer.contact.title === "Contact Info" ? "Email" : "Courriel",
       content: dict.footer.contact.email,
       color: "text-primary"
     },
     {
       icon: FaMapMarkerAlt,
-      title: "Adresse",
+      title: dict.footer.contact.title === "Contact Info" ? "Address" : "Adresse",
       content: dict.footer.contact.address,
       color: "text-primary"
     }
@@ -81,7 +81,9 @@ export default function ContactForm({ dict }: ContactFormProps) {
             transition={{ delay: 0.1 }}
             className="text-text-secondary text-lg"
           >
-            Ready to transform your digital presence? Contact us today for a free consultation
+            {dict.footer.contact.title === "Contact Info" 
+              ? "Ready to transform your digital presence? Contact us today for a free consultation"
+              : "Prêt à transformer votre présence numérique ? Contactez-nous dès aujourd'hui pour une consultation gratuite"}
           </motion.p>
         </div>
 
@@ -192,8 +194,18 @@ export default function ContactForm({ dict }: ContactFormProps) {
               ))}
             </div>
 
-            {/* Map placeholder */}
-            <div className="mt-8 h-64 w-full bg-background-dark rounded-lg" />
+            {/* Map */}
+            <div className="mt-8 w-full rounded-lg overflow-hidden">
+              <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d178787.81912808729!2d-73.71187334999999!3d45.5591827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a541c64b70d%3A0x654e3138211fefef!2sMontreal%2C%20QC!5e0!3m2!1sen!2sca!4v1738280122657!5m2!1sen!2sca"
+                width="100%"
+                height="450"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+              />
+            </div>
           </motion.div>
         </div>
       </div>

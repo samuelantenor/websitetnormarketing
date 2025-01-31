@@ -106,8 +106,8 @@
     "contact": {
       "title": "Contact Info",
       "address": "Montreal, Quebec",
-      "email": "contact@tnormarketing.com",
-      "phone": "+1 (514) XXX-XXXX"
+      "email": "tnormarketing@gmail.com",
+      "phone": "+1 514-910-3350"
     },
     "copyright": "© 2024 TNOR Marketing. All rights reserved."
   },
@@ -120,12 +120,9 @@
       "features": [
         "Bulk SMS campaigns with personalization",
         "Contact list management and segmentation",
-        "Campaign analytics and reporting",
-        "Automated messaging workflows",
-        "Two-way messaging support",
-        "Integration with popular CRM systems"
+        "Campaign analytics and reporting"
       ],
-      "cta": "Learn More"
+      "cta": "Discover FlowText"
     },
     "bookinz": {
       "title": "Bookinz",
@@ -134,7 +131,6 @@
         "Online booking system",
         "Calendar management",
         "Automated reminders",
-        "Staff scheduling",
         "Payment processing",
         "Customer management"
       ],
