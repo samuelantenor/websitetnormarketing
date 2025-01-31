@@ -16,6 +16,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel="icon" href="/images/logo-tm.png" /> {/* Ensure this line is present */}
+      </head>
       <body className={inter.className} suppressHydrationWarning>
         {children}
       </body>
